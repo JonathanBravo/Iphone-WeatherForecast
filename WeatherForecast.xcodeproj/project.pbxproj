@@ -12,6 +12,7 @@
 		AB59DC33220751B30004D325 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AB59DC31220751B30004D325 /* Main.storyboard */; };
 		AB59DC35220751B60004D325 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AB59DC34220751B60004D325 /* Assets.xcassets */; };
 		AB59DC38220751B60004D325 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AB59DC36220751B60004D325 /* LaunchScreen.storyboard */; };
+		AB59DC40220764900004D325 /* greenville-south-carolina-02-gty-jef-180301_16x9_992.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AB59DC3F220764900004D325 /* greenville-south-carolina-02-gty-jef-180301_16x9_992.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		AB59DC34220751B60004D325 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		AB59DC37220751B60004D325 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		AB59DC39220751B60004D325 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		AB59DC3F220764900004D325 /* greenville-south-carolina-02-gty-jef-180301_16x9_992.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "greenville-south-carolina-02-gty-jef-180301_16x9_992.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				AB59DC2D220751B30004D325 /* AppDelegate.swift */,
 				AB59DC2F220751B30004D325 /* ViewController.swift */,
 				AB59DC31220751B30004D325 /* Main.storyboard */,
+				AB59DC3F220764900004D325 /* greenville-south-carolina-02-gty-jef-180301_16x9_992.jpg */,
 				AB59DC34220751B60004D325 /* Assets.xcassets */,
 				AB59DC36220751B60004D325 /* LaunchScreen.storyboard */,
 				AB59DC39220751B60004D325 /* Info.plist */,
@@ -122,6 +125,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				AB59DC40220764900004D325 /* greenville-south-carolina-02-gty-jef-180301_16x9_992.jpg in Resources */,
 				AB59DC38220751B60004D325 /* LaunchScreen.storyboard in Resources */,
 				AB59DC35220751B60004D325 /* Assets.xcassets in Resources */,
 				AB59DC33220751B30004D325 /* Main.storyboard in Resources */,
